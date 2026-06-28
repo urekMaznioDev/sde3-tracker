@@ -9,5 +9,5 @@ import react from '@vitejs/plugin-react'
 // leave base as '/'.
 export default defineConfig({
   plugins: [react()],
-  base: '/sde3-tracker/',
+  base: '/',
 })
